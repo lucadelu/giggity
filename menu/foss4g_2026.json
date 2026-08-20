@@ -4,7 +4,7 @@
 	"title": "FOSS4G 2026",
 	"start": "2026-08-30",
 	"end": "2026-09-05",
-	"timezone": "Asia/Hiroshima",
+	"timezone": "Asia/Tokyo",
 	"metadata": {
 		"links": [
 			{
@@ -12,7 +12,7 @@
 				"title": "Website"
 			},
 			{
-				"url": "https://2026.foss4g.org/en/attending/accomodation/",
+				"url": "https://2026.foss4g.org/en/attending/accommodation/",
 				"title": "Accommodation"
 			},
 			{
